@@ -8,7 +8,7 @@ Focusing on Kubernetes, GitOps, and production reliability.
 
 ## About
 
-Master's degree in DevOps & Cloud. Spent the last few years industrializing infrastructure on sovereign and public clouds, migrating distributed applications to Kubernetes, and implementing GitOps workflows. 
+Master's degree in Computer Science (DevOps & Cloud). Spent the last few years industrializing infrastructure on sovereign and public clouds, migrating distributed applications to Kubernetes, and implementing GitOps workflows. 
 
 Currently working full-time at **[Patrowl.io](https://patrowl.io)** on distributed systems and multi-cloud infrastructure. I also teach DevOps & Cloud concepts to IT students on the side because I enjoy sharing what I've learned.
 
